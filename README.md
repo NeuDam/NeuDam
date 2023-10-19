@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?        font=Fira+Code&duration=2500&pause=800&color=8911F7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=I'm+Alex+(AstrumStorm);Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?        font=Fira+Code&duration=2500&pause=800&color=8911F7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=I'm+Alex+(NeuDam);Software+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## :open_file_folder: About me
@@ -29,7 +29,7 @@
 ## 📈 Stats
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstrumStorm&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuDam&theme=radical&layout=compact" />
 </div>
 
 <br/>
