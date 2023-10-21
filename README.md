@@ -4,7 +4,7 @@
 
 ## :open_file_folder: About me
 
-<strong>A developer passionate about technology and creating new things. Greet me if you can</strong>
+<strong>Developer passionate about technology and creating new things. Greet me.</strong>
 
 ## 💼 Skills
 
@@ -28,11 +28,15 @@
 
 ## 📈 Stats
 
-<div style="display: flex; flex-direction: row;">
+<p align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuDam&theme=radical&layout=compact" />
-</div>
+</p>
 
 <br/>
 <br/>
 
-<footer>Thanks for visiting my special repository on GitHub! 💜</footer>
+<footer>
+ <p align="center">
+   Thanks for visiting my special repository on GitHub! 💜
+ </p>
+</footer>
