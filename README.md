@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?        font=Fira+Code&duration=2500&pause=800&color=8911F7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=I'm+Alex+(NeuDam);Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?        font=Fira+Code&duration=2500&pause=500&color=8911F7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=I'm+Alex+( AKA NeuDam );Software+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## :open_file_folder: About me
@@ -22,7 +22,6 @@
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=9912F4)
 ![](https://img.shields.io/badge/Tags-HTML-informational?style=flat&logo=html5&logoColor=white&color=9912F4)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=9912F4)
 
 </details>
 
